@@ -13,3 +13,5 @@
 **cat file_name**
 
 *позволяет просмотреть содержимое файла*
+
+![avatar](/cat_file_name.jpg)
