@@ -10,6 +10,6 @@
 
 ![avatar](/git_log.jpg)
 
-**git cat**
+**cat file_name**
 
 *позволяет просмотреть содержимое файла*
